@@ -1,8 +1,9 @@
 # TypeError
-# len(123)
+len(123)
 
 # No TypeError
 len("Hello")
+
 
 # Type Checking
 print(type("abc"))
